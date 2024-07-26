@@ -1,5 +1,4 @@
 # Historia
-<<<<<<< HEAD
     La Historia del perrito
  El primer dia: Habia una vez un perro que estaba solito y triste porque perdio su comida,fue en busca de su dueño sin embargo no sabia que se iba a encontrar con unos matones que habian asesinado a su dueño, en su desesperacion los fue a atacar pero esos lo golpearon y lo dejaron mal herido, los matones se fueron y dejaron solo al perrito, aparecio un angel que le dijo al perrito "Te dare una segunda oportunidad, vive tu vida pero tendras que sobrevivir solo por ahora..." el perrito agradecido dejo que el angel lo sanara, unas horas despues el perrito se fue de su casa en el bosque y se fue a buscar alimento y agua, encontro cerca un rio donde pudo tomar algo de agua y siguio caminando por el bosque triste porque su dueño habia fallecido, con el corazon lleno de rencor y buscando venganza por la muerte de su dueño,en eso vio un oso por lo que el perrito se asusto y salio corriendo, el oso lo persiguio y le dijo, "socio deme la hora", el oso alcanzo al perrito y sin compasion le robo el collar de diamantes y bañado en oro que le habia regalado su dueño, el perrito triste siguio caminando y en la noche oscura mientras llovia el perro se fue a dormir.
 
@@ -8,14 +7,3 @@
 
 
 
-=======
-<<<<<<< HEAD
- Historia
- Como vas?
-
- que salio a caminar
-=======
- 
-El perro estaba caminado por el bosque cuando se cruzo con un zorro , el zorro se lo quedo viendo y noto el aspecto sucio del perro y le pregunto que le habia pasado. el perro le conto todo lo que le habia pasado el dia anterior este le conto la muerte de su dueño y como le robaron sus pertencias lo unico que quedaba de el , el zorro se conmovio al escuchar la historia del perro y decicio ayudarlo en su venganza de matar al oso que le hizo daño , se despidio de el y le dijo que pronto tendria justicia.
->>>>>>> 7025ef7e4ff3b596563f7d999bcee7e400f6d388
->>>>>>> gaby
